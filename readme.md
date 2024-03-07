@@ -9,7 +9,7 @@
 
 This image is the finished product that displays the appearance of the Horiseon website after code refactor. The refactor didn't affect the appearance of the site:
 
-![Horiseon!](/homework/Improving-Accessibility-with-HTML-CSS-and-Git/assets/images/horiseon-screenshot.png "San Juan Mountains")
+![Horiseon!](/assets/images/horiseon-screenshot.png "San Juan Mountains")
 
 ## Credits
 
