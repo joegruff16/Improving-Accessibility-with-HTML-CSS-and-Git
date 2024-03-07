@@ -9,8 +9,7 @@ In this project, the goal was to improve the accessibility of this webpage. In o
 
 This image is the finished product that displays the appearance of the Horiseon website after code refactor. The refactor didn't affect the appearance of the site:
 
-[def]: /assets/images/horiseon-screenshot.png
-[def2]: Improving-Accessibility-with-HTML-CSS-and-Git/assets/images/horiseon-screenshot.png "Horiseon Finished Product"
+!["Horiseon"](/assets/images/horiseon-screenshot.png "Horiseon Finished Product")
 
 ## Credits
 
