@@ -3,13 +3,14 @@
 
 ## Description
 
-
+In this project, the goal was to improve the accessibility of this webpage. In order to do this, I had to refactor the code by replacing nav tags with semantic elements and including alt tags in images. I also reorganized the CSS and consolidated the source code.
 
 ## Finished Product 
 
 This image is the finished product that displays the appearance of the Horiseon website after code refactor. The refactor didn't affect the appearance of the site:
 
-![Horiseon!](/assets/images/horiseon-screenshot.png "San Juan Mountains")
+[def]: /assets/images/horiseon-screenshot.png
+[def2]: Improving-Accessibility-with-HTML-CSS-and-Git/assets/images/horiseon-screenshot.png "Horiseon Finished Product"
 
 ## Credits
 
@@ -27,7 +28,3 @@ This image is the finished product that displays the appearance of the Horiseon 
 n/a
 
 ## Live Link
-
-
-[def]: /assets/images/horiseon-screenshot.png
-[def2]: Improving-Accessibility-with-HTML-CSS-and-Git/assets/images/horiseon-screenshot.png "Horiseon Finished Product"
