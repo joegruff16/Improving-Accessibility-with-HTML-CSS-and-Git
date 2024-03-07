@@ -27,3 +27,5 @@ This image is the finished product that displays the appearance of the Horiseon 
 n/a
 
 ## Live Link
+
+<https://joegruff16.github.io/Improving-Accessibility-with-HTML-CSS-and-Git/>
