@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* Background color of page */
+/* Background color of body */
 body {
     background-color: #d9dcd6;
 }
@@ -97,13 +97,13 @@ p {
     color: #ffffff;
 }
 
-/* Headings on Right Benefits Description Bar */
+/* Headings on Right Benefits Card */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Images on Right Benefits Description Bar */
+/* Images on Right Benefits Card */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
