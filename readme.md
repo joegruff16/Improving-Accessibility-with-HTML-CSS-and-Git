@@ -1,5 +1,5 @@
 # Improving Accessibility with HTML CSS and Git
-================
+=============================
 
 ## Description
 
